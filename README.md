@@ -269,16 +269,6 @@ start target/ExtentReport.html # Windows
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/YourFeature`)
-3. **Commit** your changes (`git commit -m 'Add YourFeature'`)
-4. **Push** to the branch (`git push origin feature/YourFeature`)
-5. **Open** a Pull Request
-
 ### Coding Standards
 - Follow Java naming conventions
 - Write descriptive test method names
@@ -295,24 +285,3 @@ Contributions are welcome! Please follow these steps:
 - **TestNG Documentation:** [https://testng.org](https://testng.org)
 - **Maven Guide:** [https://maven.apache.org](https://maven.apache.org)
 
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-**Ashfat Abegh**
-
----
-
-## 🐛 Issue Tracking
-
-Found a bug? Have a suggestion? Please create an [Issue](https://github.com/AshfatAbegh/Pet-Store-API-Test-Automation/issues)
-
----
-
-**Last Updated:** May 2026
